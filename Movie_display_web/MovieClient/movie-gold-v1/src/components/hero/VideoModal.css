@@ -1,0 +1,11 @@
+.ReactModal__Overlay {
+    z-index: 1000; /* Adjust this value as needed, ensuring it's higher than other elements */
+}
+
+.ReactModal__Content {
+    z-index: 1000; /* Adjust this value as needed */
+}
+
+.ReactModalPortal {
+    z-index: 1000; /* Adjust this value as needed, ensuring it's higher than other elements */
+}
